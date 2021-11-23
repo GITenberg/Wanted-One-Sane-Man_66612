@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66612-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, Frank M.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34076
     wikipedia: https://en.wikipedia.org/wiki/Frank_M._Robinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66612#Wanted-One-Sane-Man
 gutenberg_issued: '2021-10-26'
 identifiers:
   gutenberg: '66612'
